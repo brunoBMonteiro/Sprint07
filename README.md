@@ -31,3 +31,5 @@
 2- Wikipedia: Link: https://pt.wikipedia.org/wiki/Don%27t_repeat_yourself
 
 3- Blog: InfoQ Link: https://www.infoq.com/br/news/2012/07/DRY-acoplamento-duplicacao/
+
+4- Blog exemplo DRY com código: Link: https://acervolima.com/principio-dry-don-t-repeat-yourself-em-java-com-exemplos/
