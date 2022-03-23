@@ -11,7 +11,7 @@
 3- Medium by Ugonna Thelma: Link: https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898
 
 4- Youtube: Filipe Deschamps: https://www.youtube.com/watch?v=6SfrO3D4dHM&t=8s
- 
+
 <h2>Referencias para o principio KISS</h2>
 
 1- Youtube: Código fonte tv: Link: https://www.youtube.com/watch?v=HmBG-1cdHUw
@@ -23,3 +23,11 @@
 4- Medium: Rafael Souza Link: https://medium.com/@rafaelsouzaim/simplificar-n%C3%A3o-%C3%A9-estupidez-%C3%A9-engenhosidade-princ%C3%ADpio-kiss-keep-it-simple-stupid-ffa4a0b1943
 
 5- Apache Org: Link: https://people.apache.org/~fhanik/kiss.html
+
+<h2>Referencias para o principio DRY</h2>
+
+1- Blog: Link: https://backefront.com.br/o-que-e-conceito-dry/
+
+2- Wikipedia: Link: https://pt.wikipedia.org/wiki/Don%27t_repeat_yourself
+
+3- Blog: InfoQ Link: https://www.infoq.com/br/news/2012/07/DRY-acoplamento-duplicacao/
