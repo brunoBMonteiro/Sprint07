@@ -40,3 +40,5 @@
 
 2- Site: Baealdung Link: https://www.baeldung.com/java-state-design-pattern
 
+3- Site Medium: strategy pattern Link: https://medium.com/collabcode/strategy-padr%C3%B5es-de-projeto-em-java-43889a3afc5a
+
