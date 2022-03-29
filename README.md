@@ -33,3 +33,10 @@
 3- Blog: InfoQ Link: https://www.infoq.com/br/news/2012/07/DRY-acoplamento-duplicacao/
 
 4- Blog exemplo DRY com código: Link: https://acervolima.com/principio-dry-don-t-repeat-yourself-em-java-com-exemplos/
+
+<h2>Desing Patterns</h2>
+
+1- Site: Refactoring guru Link: https://refactoring.guru/pt-br
+
+2- Site: Baealdung Link: https://www.baeldung.com/java-state-design-pattern
+
