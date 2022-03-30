@@ -34,7 +34,7 @@
 
 4- Blog exemplo DRY com código: Link: https://acervolima.com/principio-dry-don-t-repeat-yourself-em-java-com-exemplos/
 
-<h2>Desing Patterns</h2>
+<h2>Referencias para Desing Patterns</h2>
 
 1- Site: Refactoring guru Link: https://refactoring.guru/pt-br
 
